@@ -7,16 +7,16 @@
 ---
 
 ### 🔭 Currently working on
-> Something awesome — add your current project here!
+> 
 
 ### 🌱 Currently learning
-> Add what you're studying — a framework, language, or concept.
+> React js, python, Django
 
 ### 👯 Looking to collaborate on
-> Mention the kind of projects or domains you enjoy.
+> Frontend Projects, UI Designs
 
 ### 💬 Ask me about
-> Your expertise, favourite tools, or anything you love to talk about.
+> GSAP animations, Tailwind css, Bootstrap, Responsive design
 
 ### ⚡ Fun fact
 > Something quirky or interesting about you!
@@ -39,5 +39,5 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINK)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](YOUR_LINK)
+[![LinkedIn](https://www.linkedin.com/in/nirjasukhadiya/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcvpbBZ4vQ1uvedJhm1CrVw%3D%3D)
+
