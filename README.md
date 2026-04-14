@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nirja Sukhadiya 👋</h1>
+<h1 align="center">Hey, I'm Nirja Sukhadiya </h1>
 <h4 align="center">Frontend Developer | Final Year Engineering Student</h4>
 
 <p align="center">
@@ -23,10 +23,10 @@
 > I love creating aesthetic websites with smooth animations that feel premium and interactive
 
 ### 🛠 Tech Stack
- HTML | CSS | JavaScript
- Tailwind CSS | Bootstrap
- GSAP (Basic Animations)
- jQuery
+ HTML | CSS | JavaScript |
+ Tailwind CSS | Bootstrap |
+ GSAP (Basic Animations) |
+ jQuery |
  Responsive Design
 
 
@@ -38,6 +38,6 @@
 ---
 
 ### 📫 Connect with me
-📧 Email: nirjasukhadiya@gmail.com
+📧 Email: nirjasukhadiya@gmail.com | 
 💼 LinkedIn: https://www.linkedin.com/in/nirjasukhadiya
 
